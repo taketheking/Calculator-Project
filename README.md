@@ -112,6 +112,7 @@ Lv 3. enum타입, stream, 람다식과 같은 모던 자바 문법을 익히기 
 ### lv 1 
 
 - 정수 2개 입력받고 사칙연산 기호 입력받고 계산하기
+  
 ![캡처1](https://github.com/user-attachments/assets/0155411b-3743-4368-b2fd-8964201f39d2)
 
 
