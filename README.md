@@ -118,18 +118,23 @@ Lv 3. enum타입, stream, 람다식과 같은 모던 자바 문법을 익히기 
 ### lv 2
 
 - 기본 계산 및 나눗셈 예외처리
+  
 ![캡처2](https://github.com/user-attachments/assets/5fc6789c-cbaf-481a-8207-fa97ac1feb80)
 
 - 데이터 확인
+  
 ![캡처3](https://github.com/user-attachments/assets/1c204b15-9a8a-47a7-b833-1c0e4f6f1629)
 
 - 데이터 수정
+  
 ![캡처4](https://github.com/user-attachments/assets/b0b8d78e-5740-43ad-889b-8a956a1ae30b)
 
 - 가장 먼저 저장된 데이터 삭제
+
 ![캡처5](https://github.com/user-attachments/assets/3ab73332-d27b-4677-81e5-470ae7b74344)
 
 - 잘못된 접근 예외 처리
+
 ![캡처6](https://github.com/user-attachments/assets/bfc79774-a093-4532-84f6-0699266557dc)
 
 
@@ -137,10 +142,16 @@ Lv 3. enum타입, stream, 람다식과 같은 모던 자바 문법을 익히기 
 ### lv 3
 
 - 실수 계산
+
 ![캡처11](https://github.com/user-attachments/assets/7d564853-75ff-4ddd-b806-b2ba40ddd877)
 
 
 - 입력받은 값보다 큰 데이터들 출력
+
 ![캡처22](https://github.com/user-attachments/assets/cab94480-d688-4167-9814-c34c604ff817)
+
+
+
+
 
 
