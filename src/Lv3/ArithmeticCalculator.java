@@ -24,12 +24,12 @@ public class ArithmeticCalculator <T extends Number> {
         }
     }
 
-    // 특정 연산 데이터를 확인하는 메서드
+    // 입력값 비교하여 큰값 데이터들 가져오는 메서드
+    /*
     public List<Number> getBiggerResults(double number){
-
             return ResultList.stream().filter(x -> Double.parseDouble(x.toString()) > number).toList();
-
     }
+    */
 
     // 특정 index 의 연산 데이터를 수정하는 메서드
     public void setResult(int index, T value ) throws SizeOutException {
