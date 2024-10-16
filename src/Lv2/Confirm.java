@@ -45,12 +45,16 @@ public class Confirm {
 
     // 나눗셈에서 분모가 0인지 확인하는 메서드
     public boolean isDivideZero(char operation, int number) {
-        if (operation != '/' && number > 0) {
-            return false;
-        } else {
-            // System.out.println("잘못된 입력입니다! 0을 제외한 양의 정수를 입력해주세요!");
-            takeException("0을 제외한 양의 정수");
-            return true;
+        if(!isPositiveInteger(number)){
+            if (operation == '/' && number == 0) {
+                // System.out.println("잘못된 입력입니다! 0을 제외한 양의 정수를 입력해주세요!");
+                takeException("0을 제외한 양의 정수");
+                return true;
+            }
+            else {
+                return false;
+            }
         }
+        return true;
     }
 }
